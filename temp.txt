@@ -1,0 +1,19 @@
+<div className="">
+<b>Description: </b> Given two arrays A and B of equal size N, the task is to find if given arrays are equal or not. Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) of elements may be different though.<br>
+<b>Note : </b>If there are repetitions, then counts of repeated elements must also be same for two array to be equal.
+<br><br>
+<b> Input Format: </b> A test case contains 3 lines of input. The first line contains an integer N denoting the size of the array. The second line contains element of array A[]. The third line contains elements of the array B[].
+<br><br><b> Output Format: </b> For a test case, print 1 if the arrays are equal else print 0.
+<br><br>
+<b> Constraints: </b><br>1<=T<=100<br>
+1<=N<=107<br>
+1<=A[],B[]<=1018
+<br><br>
+<b>Sample Test Case: </b><br> 
+<b> Input: </b><br>
+5<br>
+1 2 5 4 0<br>
+2 4 5 0 1<br>
+<br>
+<b> Output: </b><br> 1
+</div>
